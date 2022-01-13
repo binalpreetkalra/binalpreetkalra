@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Binal (she/her)!
+
+I am a Biomedical Engineering student at the University of Waterloo with aspirations of creating accessible technology with a focus on healthcare. I'm passionate about sustainable engineering design, creative problem solving, advocating for various social issues, and creating perfectly curated Spotify playlists ;)
 
 <!--
 **binalpreetkalra/binalpreetkalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
